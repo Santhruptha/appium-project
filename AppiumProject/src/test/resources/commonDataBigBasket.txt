@@ -1,0 +1,10 @@
+platformVersion 12
+deviceId x4soukivqw59pnjr
+appPackage com.app.dream11Pro
+appActivity com.app.dream11.dream11.SplashActivity 
+urlAddress http://localhost:4723/wd/hub
+
+
+
+
+
